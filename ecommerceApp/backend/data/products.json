@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Streaks HairSerum",
+    "price": 245.67,
+    "description": "The Streax Hair Serum features a non-greasy and lightweight formula that easily absorbs into your hair without leaving any residue.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/img1.jpg"
+      }
+    ],
+    "category": "Haircare",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Good Vibes Peel-off face mask",
+    "price": 150.32,
+    "description": "Gold Brightening Peel Off Mask Anti-Bacterial Removes Acne,
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/img2.jpg"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Korean rice water clenser",
+    "price": 440.57,
+    "description": "This gentle Rice Water Bright cleansing Foam from The Face Shop is enriched with rice extracts and offers your skin a clear and even complexion. ",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/img3.jpg"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Flipcart",
+    "stock": 9
+  },
+  {
+    "name": "Neutriderm moisturizer",
+    "price": 250.45,
+    "description": "Neutriderm Moisturising Lotion is soft, non-greasy, gentle on the skin, and has a pleasing fragrance. ",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/img4.jpg"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Flipcart",
+    "stock": 9
+  },
+  {
+    "name": "Derma-co Sunscreen",
+    "price": 767.32,
+    "description": "1% Hyaluronic Sunscreen Aqua Gel - 50g,Broad Spectrum Protection PA++++ Non-Greasy,
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/img5.jpg"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Flipcart",
+    "stock": 9
+  },
+  {
+    "name": "Loreal-paris hair conditioner",
+    "price": 150.46,
+    "description": "A moisturising agent designed to give hair shine, smooth out strands and leave them feeling soft. ",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/img6.jpg"
+      }
+    ],
+    "category": "Haircare",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Face snail Serum",
+    "price": 100.12,
+    "description": "Snail Serum is known for its amazing regenerating properties which promotes cell turnover, reduces hyperpigmentation & blemishes, prevents breakouts and improves overall skin texture. ",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/img7.jpg"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Flipcart",
+    "stock": 6
+  }
+]
